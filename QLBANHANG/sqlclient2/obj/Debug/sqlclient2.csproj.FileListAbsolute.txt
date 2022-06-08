@@ -1,0 +1,12 @@
+P:\csdl\QLBANHANG\sqlclient2\bin\Debug\sqlclient2.dll
+P:\csdl\QLBANHANG\sqlclient2\bin\Debug\sqlclient2.pdb
+P:\csdl\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.csproj.AssemblyReference.cache
+P:\csdl\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.csproj.CoreCompileInputs.cache
+P:\csdl\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.dll
+P:\csdl\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.pdb
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\bin\Debug\sqlclient2.dll
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\bin\Debug\sqlclient2.pdb
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.csprojAssemblyReference.cache
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.csproj.CoreCompileInputs.cache
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.dll
+C:\Users\Vinhh\Desktop\QLBANHANG\sqlclient2\obj\Debug\sqlclient2.pdb
